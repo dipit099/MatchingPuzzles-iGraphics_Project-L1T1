@@ -14,13 +14,13 @@ Check out a brief demonstration of the Matching Puzzles project in action: [Vide
    Follow the setup instructions outlined in the provided PDF, which can be found [here](https://drive.google.com/file/d/1cY7bNyMpJJpH1o9WbfmZIBaSlqCyPTVO/view?usp=sharing).
 
 3. **Download Repository:**
-   Clone or download the project repository from [this GitHub link](https://github.com/dipit099/MatchingPuzzles-iGraphics_Project-L1T1).
+    Clone or download the project repository from [this GitHub link](https://github.com/dipit099/MatchingPuzzles-iGraphics_Project-L1T1).
 
-4. **Paste Repository:**
-   Paste the entire downloaded repository into your project folder.
+4. **Open Repository Folder:**
+     Open the folder in VS Code
 
 5. **Run the Project:**
-   Run the project and enjoy playing the Matching Puzzles game!
+   Open the iMain.cpp file and use command "Ctrl+Shift+B" and enjoy playing the Matching Puzzles game!
 
 Feel free to explore the code, customize it, and contribute to its development. If you encounter any issues or have suggestions for improvement, don't hesitate to open an issue on the GitHub repository.
 
