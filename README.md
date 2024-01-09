@@ -20,7 +20,7 @@ Check out a brief demonstration of the Matching Puzzles project in action: [Vide
      Open the folder in VS Code
 
 5. **Run the Project:**
-   Open the iMain.cpp file and use command "Ctrl+Shift+B" and enjoy playing the Matching Puzzles game!
+   Open the iMain.cpp file and use command "Ctrl+Shift+B" OR open iMain.exe file and enjoy playing the Matching Puzzles game!
    ```bash
    Ctrl+Shift+B
    ```
