@@ -21,6 +21,9 @@ Check out a brief demonstration of the Matching Puzzles project in action: [Vide
 
 5. **Run the Project:**
    Open the iMain.cpp file and use command "Ctrl+Shift+B" and enjoy playing the Matching Puzzles game!
+   ```bash
+   Ctrl+Shift+B
+   ```
 
 Feel free to explore the code, customize it, and contribute to its development. If you encounter any issues or have suggestions for improvement, don't hesitate to open an issue on the GitHub repository.
 
