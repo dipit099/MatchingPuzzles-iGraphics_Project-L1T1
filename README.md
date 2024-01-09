@@ -28,3 +28,25 @@ Check out a brief demonstration of the Matching Puzzles project in action: [Vide
 Feel free to explore the code, customize it, and contribute to its development. If you encounter any issues or have suggestions for improvement, don't hesitate to open an issue on the GitHub repository.
 
 Happy coding and have fun playing Matching Puzzles!
+
+## Pictures
+![image](https://github.com/dipit099/MatchingPuzzles-iGraphics_Project-L1T1/assets/112118531/d04a94aa-449c-4803-82ac-c043ea76f209)
+
+![image](https://github.com/dipit099/MatchingPuzzles-iGraphics_Project-L1T1/assets/112118531/c27c74cd-9da0-4dbb-af07-b319f0e9f88d)
+
+![image](https://github.com/dipit099/MatchingPuzzles-iGraphics_Project-L1T1/assets/112118531/046440f3-9b92-4b22-8947-f04763eb09b0)
+
+![image](https://github.com/dipit099/MatchingPuzzles-iGraphics_Project-L1T1/assets/112118531/774e3a18-ad7d-40fd-98bd-f7af2f6cac5d)
+
+![image](https://github.com/dipit099/MatchingPuzzles-iGraphics_Project-L1T1/assets/112118531/0f0ca875-a9f4-46a5-92ab-de79b6bf6998)
+
+
+![image](https://github.com/dipit099/MatchingPuzzles-iGraphics_Project-L1T1/assets/112118531/514c506e-3b7f-4ee3-9e1b-4f2eac7f5a8d)
+
+
+![image](https://github.com/dipit099/MatchingPuzzles-iGraphics_Project-L1T1/assets/112118531/d790b1d1-b61e-485e-a963-cfe4065b073b)
+
+
+![image](https://github.com/dipit099/MatchingPuzzles-iGraphics_Project-L1T1/assets/112118531/42707c4c-1a88-4f44-9cfe-886938c064f7)
+
+
