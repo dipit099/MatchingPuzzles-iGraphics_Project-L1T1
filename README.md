@@ -15,11 +15,13 @@ Check out a brief demonstration of the Matching Puzzles project in action: [Vide
 
 3. **Download Repository:**
     Clone or download the project repository from [this GitHub link](https://github.com/dipit099/MatchingPuzzles-iGraphics_Project-L1T1).
+   ![image](https://github.com/dipit099/MatchingPuzzles-iGraphics_Project-L1T1/assets/112118531/ef13ea14-bcf0-4545-a744-23d1709bc058)
 
-4. **Open Repository Folder:**
+
+5. **Open Repository Folder:**
      Open the folder in VS Code
 
-5. **Run the Project:**
+6. **Run the Project:**
    Open the iMain.cpp file and use command "Ctrl+Shift+B" OR open iMain.exe file and enjoy playing the Matching Puzzles game!
    ```bash
    Ctrl+Shift+B
